@@ -1,0 +1,40 @@
+.logo {
+  width: 95px;
+  height: 45px;
+  margin-left: 65px;
+  margin-right: 150px;
+  margin: 5px 65px;
+}
+nav {
+  justify-content: space-around;
+}
+.container-fluid {
+  margin-top: -8px;
+}
+.li:hover {
+  color: white;
+  border-bottom: 2px solid orange;
+}
+a {
+  margin-right: 30px;
+}
+.li {
+  color: orange;
+}
+
+.video {
+  object-fit: cover;
+  position: absolute;
+  z-index: -1;
+}
+.but1:hover {
+  color: orange;
+  background-color: black;
+}
+.but1 {
+  width: 200px;
+  background: transparent;
+  color: white;
+  border-color: white;
+  padding: 10px;
+}
